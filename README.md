@@ -13,7 +13,7 @@
 - Plataformes mòbils i powerups.
 - Sistemes de salts i moviments fluids.
 - Controls senzills i intuïtius.
-- efectes visuals immersius.
+- Efectes visuals immersius.
 
 ## Controls
 
@@ -23,6 +23,30 @@
 - **Click esquerra**: Disparar.
 - **Shift**: Ajupir-se.
 - **F**: Dash.
+
+## Entrega
+Menu amb 3 opcions.
+
+No implementat punts de guardat.
+
+Mecaniques de moviment:
+-      Jumpers
+-      Plataformes mòbils
+
+Habilitats (S'aconsegueixen amb monedes):
+-       Salts multiples.
+-       Dash.
+
+Sistema de desat automatic no implementat.
+
+Personalització:
+-     Afegit un enemic personalitzar (Griphon) amb textura personalitzada.
+-       Efectes especials implementats(Llamps, fum...)
+
+Dos nivells:
+1. Dificultat baixa.
+2. Dificultat alta.
+
 
 ## Instal·lació i execució
 
