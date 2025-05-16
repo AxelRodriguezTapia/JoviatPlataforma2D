@@ -7,19 +7,22 @@
 
 ## Característiques principals
 
-- Gràfics 2D amb un estil modern i atractiu.
-- Diversos nivells amb dificultat progressiva.
+- Gràfics 3D amb un estil modern i atractiu.
+- Dos nivells amb dificultat progressiva.
 - Enemics i obstacles variats.
-- Plataformes mòbils i col·leccionables.
+- Plataformes mòbils i powerups.
 - Sistemes de salts i moviments fluids.
 - Controls senzills i intuïtius.
-- Música i efectes de so immersius.
+- efectes visuals immersius.
 
 ## Controls
 
 - **Fletxes de direcció**: Mou el personatge a esquerra i dreta.
 - **Barra espaiadora**: Saltar.
 - **Esc**: Pausa el joc.
+- **Click esquerra**: Disparar.
+- **Shift**: Ajupir-se.
+- **F**: Dash.
 
 ## Instal·lació i execució
 
