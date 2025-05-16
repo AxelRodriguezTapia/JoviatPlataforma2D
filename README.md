@@ -28,4 +28,6 @@
    git clone https://github.com/AxelRodriguezTapia/JoviatPlataforma2D.git
 2. Obre el projecte amb Unreal Engine.
 3. Compila i executa el projecte des de l’editor.
-   
+
+## Crèdits
+Projecte desenvolupat per Axel Rodriguez Tapia
